@@ -1,2 +1,2 @@
 # capabilities
-HTML/JS/CSS for capabilities.fifthtribe.com
+HTML/JS/CSS for http://www.fifthtribe.com/deck/
