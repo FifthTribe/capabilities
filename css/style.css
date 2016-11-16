@@ -1,0 +1,94 @@
+@font-face {
+  font-family: 'arquitecta';
+  src: url('fonts/latinotype_-_arquitectabook-webfont.woff2') format('woff2'), url('fonts/latinotype_-_arquitectabook-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'arquitecta';
+  src: url('fonts/latinotype_-_arquitectabold-webfont.woff2') format('woff2'), url('fonts/latinotype_-_arquitectabold-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: 'arquitecta';
+  src: url('fonts/latinotype_-_arquitectaheavy-webfont.woff2') format('woff2'), url('fonts/latinotype_-_arquitectaheavy-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: bold;
+}
+
+
+/*Slide 1*/
+
+.logo {
+  max-width: 100px !important;
+}
+
+.big-title {
+  font-family: 'arquitecta', sans-serif;
+  font-weight: 700;
+  font-size: 44px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em
+}
+
+.intro {
+  font-size: 16px;
+  color: white;
+}
+
+.code span {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+
+/*Slide 2*/
+
+.we-do {
+  text-transform: uppercase;
+  font-family: 'arquitecta', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 0.1;
+  margin-bottom: 0px;
+}
+
+hr {
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.service {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 40px;
+  margin-bottom: 5px;
+}
+
+.service-description {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 14px;
+  width: 70%;
+}
+
+.box img {
+  width: 100%;
+}
+
+.caption {
+  font-family: 'open sans', sans-serif;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  line-height: 1.4em;
+}
+
+.caption span {
+  font-size: 14px;
+}
